@@ -1,0 +1,12 @@
+alias c='clear'
+alias a='./autogen.sh'
+alias co='./configure.sh'
+alias mk='sudo make'
+alias mi='sudo make install'
+alias ld='sudo ldconfig'
+alias ls='ls -l -h'
+alias sup='sudo apt-get update'
+alias sip='sudo apt-get install'
+alias sar='sudo apt-get autoremove'
+alias sac='sudo apt-get autoclean'
+
